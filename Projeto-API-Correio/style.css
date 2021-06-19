@@ -1,0 +1,40 @@
+
+body {
+	background: url("img/fundo.jpg");
+}
+
+img {
+	max-width: 300px;	
+	padding: 10px 550px 10px 500px;
+	background: #FFFF00;
+}
+nav {
+	padding: 10px 30px 10px 560px;
+}
+
+.form-group{
+	
+	max-width: 310px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 10px 10px 10px 10px;
+	
+}
+
+
+form {
+
+margin:10px 10px 10px 10px;
+background: #CAE1FF;
+
+}
+
+footer {
+	margin-top:100px;
+	padding: 10px 10px 10px 10px;
+	background: #FFFF00;
+	margin-left: auto;
+	margin-right: auto;
+
+}
